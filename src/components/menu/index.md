@@ -23,8 +23,8 @@ menuItems:
     linkType: internal
     parentid: '-1'
   - id: '13'
-    label: Shopify Tag 2
-    link: /products/incenso
+    label: Blog
+    link: /blog/
     linkType: internal
     parentid: '-1'
   - id: '14'
