@@ -1,8 +1,7 @@
 ---
 templateKey: footer
-siteName: Untitled
-siteUrl: 'https://editorial-html5up-gatsby.netlify.com/'
-siteFooterFont: 'Open Sans'
+siteName: Rapé Sagrado
+siteUrl: 'https://rapesagrado.com.br/'
 tagline: All rights reserved.
 ---
 
