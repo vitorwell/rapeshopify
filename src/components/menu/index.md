@@ -13,8 +13,8 @@ menuItems:
     linkType: internal
     parentid: '-1'
   - id: '11'
-    label: All Shopify Products
-    link: /products
+    label: Tabaco Mói
+    link: /tabaco/
     linkType: internal
     parentid: '-1'
   - id: '12'
