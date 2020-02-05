@@ -18,8 +18,8 @@ menuItems:
     linkType: internal
     parentid: '-1'
   - id: '12'
-    label: Shopify Tag 1
-    link: /products/rape
+    label: Incenso
+    link: /incenso/
     linkType: internal
     parentid: '-1'
   - id: '13'
