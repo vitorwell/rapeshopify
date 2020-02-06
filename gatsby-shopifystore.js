@@ -1,6 +1,6 @@
 module.exports = {
     product: {
-        text     : { button: 'Add to Cart' },
+        text     : { button: 'Comprar' },
         iframe   : false,
         contents : {
             img   : false,
@@ -12,7 +12,7 @@ module.exports = {
             button : '<button class="button primary icon solid fa-cart-plus {{data.classes.product.button}}">{{data.buttonText}}</button>'
         },
         buttonDestination: 'cart',
-        quantiyLabel: 'Quantity'
+        quantiyLabel: 'Quantidade'
     },
     toggle: {
         contents: {
@@ -35,18 +35,18 @@ module.exports = {
             note: true,
         },
         text: {
-            title: 'Cart',
-            empty: 'Your cart is empty.',
-            button: 'Checkout',
+            title: 'Carrinho',
+            empty: 'Seu carrinho está vazio.',
+            button: 'Finaizar Compra',
             total: 'Total',
-            currency: 'USD',
-            notice: 'Shipping and discount codes are added at checkout.',
-            noteDescription: 'Special instructions for seller',
+            currency: 'BRL',
+            notice: 'O frete sera calculado no na finalização da compra.',
+            noteDescription: 'Adicione alguma instrução adicional se necessário',
         },
         styles: {
             button: {
                 'background-color': '#78b657',
             }
-        }
-    }
-}
+        },
+	popup: false
+} }
