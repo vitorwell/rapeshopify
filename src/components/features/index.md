@@ -1,6 +1,6 @@
 ---
 templateKey: features
-visible: false
+visible: true
 title: Amazing Features
 features:
   - class: icon fa-gem
