@@ -15,7 +15,7 @@ features:
   - class: icon solid fa-paper-plane
     link:
       class: button big
-      label: Confira
+      label: Comprar
       linkUrl: /loja
     tagline: >-
       Aqui você encontra o melhor preço para usa medicina, nossos rapés são
@@ -24,7 +24,7 @@ features:
   - class: icon solid fa-rocket
     link:
       class: button big
-      label: Learn more
+      label: Comprar
       linkUrl: /loja
     tagline: >-
       Amplie sua consciência, conecte-se a energia ancestral e faça um ótimo
