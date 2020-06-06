@@ -17,7 +17,7 @@ tagline: >-
   dolor sit nullam.  
 bannerImage:
   alt: Aplicação de rapé
-  src: /images/rape.jpg
+  src: /images/pic01.jpg
 actions:
   - class: button big
     label: Nossos produtos
