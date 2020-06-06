@@ -1,6 +1,6 @@
 ---
 templateKey: banner
-visible: false
+visible: true
 datasource: blog
 header: |-
   # Hi, I’m Editorial by HTML5 UP
