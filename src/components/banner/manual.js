@@ -20,7 +20,7 @@ const ManualBanner = ({frontmatter}) => (
       </ul>
     </div>
     <span className="image object">
-        {frontmatter.bannerImage ? <FeaturedImage alt={frontmatter.bannerImage.alt} filename={frontmatter.bannerImage.src} /> : <img src="{frontmatter.bannerImage.src}" alt="{frontmatter.bannerImage.alt}" />}
+        {frontmatter.bannerImage ? <FeaturedImage alt={frontmatter.bannerImage.alt} filename={frontmatter.bannerImage.src} /> : <img src="/images//{frontmatter.bannerImage.src}" alt="{frontmatter.bannerImage.alt}" />}
     </span>
   </section>
 )
