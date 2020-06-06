@@ -1,9 +1,9 @@
 ---
 templateKey: banner
 visible: true
-datasource: blog
+datasource: manual
 header: >-
-  # Olá Txai, conheça nossa medicina
+  # Olá Txai, conheça nossa medicina.
 
 
   Rapés indígenas, tabacos e plantas sagradas para meditação e alinhamento com o
@@ -16,8 +16,8 @@ tagline: >-
   Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum
   dolor sit nullam.  
 bannerImage:
-  alt: Editorial HTML5Up Gatsby Starter App
-  src: /images/preparo-do-rapé.jpg
+  alt: Aplicação de rapé
+  src: /images/rape.jpg
 actions:
   - class: button big
     label: Nossos produtos
