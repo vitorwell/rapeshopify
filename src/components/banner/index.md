@@ -17,7 +17,7 @@ tagline: >-
   dolor sit nullam.  
 bannerImage:
   alt: Editorial HTML5Up Gatsby Starter App
-  src: /images/rape.jpg
+  src: /images/preparo-do-rapé.jpg
 actions:
   - class: button big
     label: Nossos produtos
