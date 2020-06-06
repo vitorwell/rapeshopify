@@ -18,8 +18,8 @@ features:
       label: Confira
       linkUrl: /loja
     tagline: >-
-      Aqui você encontra o melhor preço para usa medicina, nossos rapés possuem
-      são preparados com muito amor e  possuem preços acessives.
+      Aqui você encontra o melhor preço para usa medicina, nossos rapés são
+      preparados com muito amor e possuem preços acessíveis.
     title: Melhor preço!
   - class: icon solid fa-rocket
     link:
@@ -34,10 +34,10 @@ features:
     link:
       class: button big
       label: Saiba Mais
-      linkUrl: /trocas
+      linkUrl: /pagamento-seguro
     tagline: >-
-      Algum problema com nossa medicina? Entre em contato e resolveremos seu
-      problema em instantes. Garantimos que você vai gostar.
-    title: Devolução fácil
+      Pagamento seguro com PagSeguro, receba seu produto ou tenha seu dinheiro
+      de volta, tudo garantido pelo líder em pagamentos seguros.
+    title: Pagamento Seguro
 ---
 
