@@ -20,10 +20,7 @@ bannerImage:
   src: /images/rape.jpg
 actions:
   - class: button big
-    label: Learn More
-    linkUrl: /loja
-  - class: button big
-    label: Buy Now
+    label: Nossos produtos
     linkUrl: /loja
 ---
 
