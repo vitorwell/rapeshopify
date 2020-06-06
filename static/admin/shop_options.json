@@ -9,7 +9,7 @@
   "shopMetaTitleTpl": "Rapé Sagrado - Loja Especializada em Rapé.",
   "productPath": "/produtos",
   "categorySloganTpl": "%SHOPIFYPRODUCTTAG%",
-  "basePath": "/",
+  "basePath": "/loja",
   "tagMetaTitleTpl": "Compre %SHOPIFYPRODUCTTAG% aqui no Rapé Sagrado",
   "shopTagline": "Produtos",
   "tagPath": "/"
