@@ -1,7 +1,7 @@
 ---
 templateKey: banner
 visible: true
-datasource: blog
+datasource: shopify
 header: |-
   # Hi, I’m Editorial by HTML5 UP
   A free and fully responsive site template
