@@ -2,12 +2,7 @@
 templateKey: banner
 visible: true
 datasource: manual
-header: >-
-  # Olá Txai, conheça nossa medicina.
-
-
-  Rapés indígenas, tabacos e plantas sagradas para meditação e alinhamento com o
-  ser ancestral.
+header: '# Olá Txai, conheça nossa medicina.'
 tagline: >-
   Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam
   facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor
