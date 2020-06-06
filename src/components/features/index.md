@@ -6,13 +6,12 @@ features:
   - class: icon fa-gem
     link:
       class: button big
-      label: Learn more
-      linkUrl: /
+      label: Saiba Mais
+      linkUrl: /frete
     tagline: >-
-      Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin
-      aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus
-      aliquam.
-    title: Portitor ullamcorper
+      Oferecemos frete grátis por PAC para toda compra acima de R$240,00
+      Aproveite essa oportunidade e recebe sua medicina em casa.
+    title: Frete Grátis
   - class: icon solid fa-paper-plane
     link:
       class: button big
@@ -22,7 +21,7 @@ features:
       Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin
       aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus
       aliquam.
-    title: Sapien veroeros
+    title: Medicinas Naturais
   - class: icon solid fa-rocket
     link:
       class: button big
