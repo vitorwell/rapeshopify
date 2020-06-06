@@ -1,7 +1,7 @@
 ---
 templateKey: features
 visible: true
-title: Amazing Features
+title: Compre com a gente!
 features:
   - class: icon fa-gem
     link:
