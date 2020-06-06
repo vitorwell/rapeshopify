@@ -15,32 +15,29 @@ features:
   - class: icon solid fa-paper-plane
     link:
       class: button big
-      label: Learn more
-      linkUrl: /
+      label: Confira
+      linkUrl: /loja
     tagline: >-
-      Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin
-      aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus
-      aliquam.
-    title: Medicinas Naturais
+      Aqui você encontra o melhor preço para usa medicina, nossos rapés possuem
+      são preparados com muito amor e  possuem preços acessives.
+    title: Melhor preço!
   - class: icon solid fa-rocket
     link:
       class: button big
       label: Learn more
-      linkUrl: /
+      linkUrl: /loja
     tagline: >-
-      Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin
-      aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus
-      aliquam.
-    title: Quam lorem ipsum
+      Amplie sua consciência, conecte-se a energia ancestral e faça um ótimo
+      trabalho. Rapés para conexão espiritual
+    title: Produtos Naturais.
   - class: icon solid fa-signal
     link:
       class: button big
-      label: Learn more
-      linkUrl: /
+      label: Saiba Mais
+      linkUrl: /trocas
     tagline: >-
-      Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin
-      aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus
-      aliquam.
-    title: Sed magna finibus
+      Algum problema com nossa medicina? Entre em contato e resolveremos seu
+      problema em instantes. Garantimos que você vai gostar.
+    title: Devolução fácil
 ---
 
