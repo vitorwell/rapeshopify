@@ -1,7 +1,7 @@
 ---
 templateKey: banner
 visible: true
-datasource: shopify
+datasource: manual
 header: >-
   # Olá Txai, conheça nossa medicina.
 
