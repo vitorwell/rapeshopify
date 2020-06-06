@@ -43,7 +43,7 @@ const Contact = () => (
           <p>{frontmatter.tagline}</p>
           <ul className="contact">
             <li className="icon solid fa-envelope"><a href={frontmatter.email.linkUrl}>{frontmatter.email.label}</a></li>
-            <li className="icon solid fa-phone"><a href={frontmatter.phone}>{frontmatter.phone}</a></li>
+            <li className="icon solid fa-phone"><a href="https://wa.me/5516997737184">{frontmatter.phone}</a></li>
             <li className="icon solid fa-home">{frontmatter.address}</li>
           </ul>
         </section>
