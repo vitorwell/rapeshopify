@@ -3,7 +3,7 @@ templateKey: banner
 visible: true
 datasource: manual
 header: >-
-  # Hi, conheça nossa medicina
+  # Olá Txai, conheça nossa medicina
 
 
   Rapés indígenas, tabacos e plantas sagradas para meditação e alinhamento com o
@@ -17,7 +17,7 @@ tagline: >-
   dolor sit nullam.  
 bannerImage:
   alt: Editorial HTML5Up Gatsby Starter App
-  src: /images//pic06.jpg
+  src: /images/rape.jpg
 actions:
   - class: button big
     label: Learn More
