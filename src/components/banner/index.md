@@ -1,10 +1,13 @@
 ---
 templateKey: banner
 visible: true
-datasource: shopify
-header: |-
-  # Hi, I’m Editorial by HTML5 UP
-  A free and fully responsive site template
+datasource: manual
+header: >-
+  # Hi, conheça nossa medicina
+
+
+  Rapés indígenas, tabacos e plantas sagradas para meditação e alinhamento com o
+  ser ancestral.
 tagline: >-
   Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam
   facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor
@@ -18,9 +21,9 @@ bannerImage:
 actions:
   - class: button big
     label: Learn More
-    linkUrl: /
+    linkUrl: /loja
   - class: button big
     label: Buy Now
-    linkUrl: /
+    linkUrl: /loja
 ---
 
