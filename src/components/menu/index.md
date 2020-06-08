@@ -12,6 +12,11 @@ menuItems:
     link: /rape/
     linkType: internal
     parentid: '-1'
+  - id: '0'
+    label: Rapé forte
+    link: rape-forte
+    linkType: internal
+    parentid: '-1'
   - id: '11'
     label: Tabaco Mói
     link: /tabaco/
