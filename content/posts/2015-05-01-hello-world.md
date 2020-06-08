@@ -10,9 +10,10 @@ featuredImage:
   src: /images/rape.jpg
 tagline: ''
 description: >-
-  First things first. {static is} The New Dynamic is one of the best resources
-  for developers and designers that are embracing the static web technology. It
-  was founded by Bud Parr in 2014.
+  O rapé é uma tradição cultural espiritual dos povos indígenas, trata-se de um
+  pó fino composto de tabaco, cinzas e outras ervas. Os ingredientes são
+  secados, piladas e peneirados a fim de se obter um pó fino o qual é soprado
+  nas narinas.
 category: rapé
 tags:
   - rapé
