@@ -1,6 +1,6 @@
 ---
 templateKey: post
-title: '#FIQUEEMCASA Enviamos para todo o Brasil'
+title: '#FIQUEEMCASA Enviamos para você!'
 path: frete
 date: 2020-06-08T23:40:30.790Z
 featuredImage:
@@ -10,8 +10,7 @@ description: >-
   O Rapé Sagrado envia a sua medicina diretamente a sua casa pelos Correios,
   você pode escolher sua entrega por PAC ou SEDEX, a escolha do frete e o
   calculo do seu custo é realizado depois de adicionar seus produtos ao
-  carrinho.Oferecemos frete grátis para toda compra acima de R$240,00 por PAC
-  dos Correios.
+  carrinho.
 gallery: []
 category: post
 tags:
