@@ -12,18 +12,18 @@ description: >-
   secados, piladas e peneirados a fim de se obter um pó fino o qual é soprado
   nas narinas.
 gallery: []
-category: rapé
+category: pagamento
 tags:
-  - rapé
-  - preparo do rapé
+  - pagamento
+  - pagamento seguro
 editorpick: 'yes'
 layout: post
 seo:
-  browserTitle: O que é rapé? Conheça seus benefícios.
-  title: O que é rapé? Conheça seus benefícios.
+  browserTitle: 'Pode confiar, aceitamos PagSeguro'
+  title: 'Pode confiar, aceitamos PagSeguro'
   description: >-
-    Conheça os benefícios do rapé, uma medicina sagrada utilizada pelos índios
-    em rituais e cerimônias espirituais. Confira!
+    Compre sua medicina com segurança na loja Rapé Sagrado, pague com segurança
+    pelo PagSeguro e receba pelos Correios.
 ---
 Os pagamentos realizados no Rapé Sagrado são garantidos pelo líder em pagamentos seguros, o PagSeguro. Assim você pode comprar com segurança com todas as garantias que o PagSeguro oferece. 
 
