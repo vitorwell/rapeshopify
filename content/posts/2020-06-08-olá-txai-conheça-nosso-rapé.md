@@ -1,30 +1,38 @@
 ---
 templateKey: post
-title: 'Olá Txai, conheça nosso Rapé.'
-path: nosso-rape
+title: Rapé e seus benefícios - Conheça esta medicina sagrada
+path: /rape-e-seus-beneficios/
 date: 2020-06-06T23:40:30.790Z
 featuredImage:
   alt: aplicação de rapé
   src: /images/rape.jpg
+description: >-
+  O rapé é uma tradição cultural espiritual dos povos indígenas, trata-se de um
+  pó fino composto de tabaco, cinzas e outras ervas. Os ingredientes são
+  secados, piladas e peneirados a fim de se obter um pó fino o qual é soprado
+  nas narinas.
 gallery: []
-category: post
+category: rapé
 tags:
-  - post
-editorpick: 'no'
+  - rapé
+  - preparo do rapé
+editorpick: 'yes'
 layout: post
+seo:
+  browserTitle: O que é rapé? Conheça seus benefícios.
+  title: O que é rapé? Conheça seus benefícios.
+  description: >-
+    Conheça os benefícios do rapé, uma medicina sagrada utilizada pelos índios
+    em rituais e cerimônias espirituais. Confira!
 ---
-O RAPÉ
+O rapé é uma tradição cultural espiritual dos povos indígenas, trata-se de um pó fino composto de tabaco, cinzas e outras ervas. Os ingredientes são secados, piladas e peneirados a fim de se obter um pó fino o qual é soprado nas narinas.
 
-O rapé é uma medicina indígena que te conecta com a energia do Deus da criação, agindo no espiritual como na cura. Deve-se utilizado unicamente para esses fins, em ambiente preparado e com pessoas experientes.
+Os índios consideram o rapé como uma medicina com poderes curativos, quando utilizado de forma correta e ritualística conecta o plano espiritual a pessoa que fez a comunhão do rapé. Aplicação requer consciência que a energia do utilizador influencia na aplicação.
 
+O termo passar rapé é utilizado durante os rituais indígenas e xamânicos, quando combinada com ayahuasca aumenta seus poderes, segundo seus adeptos. O rapé é aplicado com instrumento chamado tepi, que pode ser feito de bambu, ossos outras madeiras.
 
+![Preparo do rapé](/images/preparo-do-rapé.jpg "Preparo do rapé")
 
-Nosso rapé é oferecido em embalagens de 25 gramas, feito através de uma combinação de tabaco moído e cinzas de árvores sagradas com propriedades medicinais. feitos com muito respeito, dedicação, amor e fé. Ele passa por um processo de peneiragem para ficar extrafino e é secado com a energia do sol.
+Os pajés o utilizam sempre que adentram na mata, segundo eles uso do rapé auxilia na harmonização com todos os seres da floresta e também auxilia na ligação do espírito com o mundo espiritual.
 
-O tabaco é natural da divisa do Acre com o Peru, e é cultivado na mata, livre de pesticidas e química.
-
-Os índios utilizam o rapé por suas propriedades medicinais, e para eles cada rapé possui suas propriedades curandeiras.
-
-Os rapés ajudam a potencializar a meditação e também auxilia em limpezas espirituais.
-
-Para a utilização, é muito importante que a pessoa esteja preparada para receber o espírito da floresta através do rapé. É necessário estar com o corpo “limpo”, em um ambiente propício e principalmente com propósito para consagrar esta medicina sagrada. A pessoa que irá aplicar também requer preparo, concentração, propósito fé e técnica de sopro. Assim, terá o aproveitamento máximo da medicina.
+Estudos indicam que o rapé tem poder para ativar o sistema límbico do cérebro, fazendo com que naturalmente relaxe e concentre-se. O rapé é também utilizado pelos índios como um estimulante eliminando preguiça sem moleza, muitas pessoas o procuram para auxiliar no tratamento de rinites, sinusites, alergias
