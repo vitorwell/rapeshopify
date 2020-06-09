@@ -3,7 +3,7 @@ templateKey: banner
 visible: true
 datasource: manual
 header: >-
-  # Olá Txai, conheça nossa medicina.
+  # Olá Txai, conheça nosso rapé.
 
 
   Rapés indígenas, tabacos e plantas sagradas para meditação e alinhamento com o
