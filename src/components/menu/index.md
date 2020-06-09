@@ -22,11 +22,6 @@ menuItems:
     link: /tabaco/
     linkType: internal
     parentid: '-1'
-  - id: '12'
-    label: Incenso
-    link: /incenso/
-    linkType: internal
-    parentid: '-1'
   - id: '13'
     label: Blog
     link: /blog/
