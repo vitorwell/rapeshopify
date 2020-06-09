@@ -9,6 +9,18 @@ items:
       src: /images/rape.jpg
     linkUrl: /blog/rape-e-seus-beneficios/
     tagline: Rapé e seus benefícios
+  - class: image
+    image:
+      alt: Correios
+      src: /images/correios_brasileira_logo_old-700x176.png
+    linkUrl: /blog/frete/
+    tagline: '#FIQUEEMCASA'
+  - class: image
+    image:
+      alt: PagSeguro
+      src: /images/pagseguro-uol.png
+    linkUrl: /blog/pagamento-seguro/
+    tagline: Pagamento Seguro
 action:
   class: button big
   label: Saiba mais
