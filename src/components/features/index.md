@@ -7,7 +7,7 @@ features:
     link:
       class: button big
       label: Saiba Mais
-      linkUrl: /frete
+      linkUrl: blog/frete/
     tagline: >-
       Oferecemos frete grátis por PAC para toda compra acima de R$240,00
       Aproveite essa oportunidade e recebe sua medicina em casa.
