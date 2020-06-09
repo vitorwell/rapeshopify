@@ -1,30 +1,26 @@
 ---
 templateKey: post
-title: 'Olá Txai, conheça nosso Rapé.'
-path: nosso-rape
+title: '#fiqueemcasa Enviamos para todo o Brasil'
+path: frete
 date: 2020-06-08T23:40:30.790Z
 featuredImage:
-  alt: aplicação de rapé
-  src: /images/rape.jpg
+  alt: Entrega pelos correios
+  src: /images/correios_brasileira_logo_old-700x176.png
 gallery: []
 category: post
 tags:
   - post
 editorpick: 'no'
 layout: post
+seo:
+  title: Como funciona o frete do Rapé Sagrado?
 ---
-O RAPÉ
+O Rapé Sagrado envia a sua medicina diretamente a sua casa pelos Correios, você pode escolher sua entrega por PAC ou SEDEX, a escolha do frete e o calculo do seu custo é realizado depois de adicionar seus produtos ao carrinho.
 
-O rapé é uma medicina indígena que te conecta com a energia do Deus da criação, agindo no espiritual como na cura. Deve-se utilizado unicamente para esses fins, em ambiente preparado e com pessoas experientes.
+Oferecemos frete grátis para toda compra acima de R$240,00 por PAC dos Correios.
 
+Caso você desista de sua compra, basta entrar em contato que combinaremos a devolução da melhor forma para você, nosso respeitado cliente.
 
+Nosso rapé é feito com muito amor e carinho e esperamos que você aproveite o melhor dessa energia indígena.
 
-Nosso rapé é oferecido em embalagens de 25 gramas, feito através de uma combinação de tabaco moído e cinzas de árvores sagradas com propriedades medicinais. feitos com muito respeito, dedicação, amor e fé. Ele passa por um processo de peneiragem para ficar extrafino e é secado com a energia do sol.
-
-O tabaco é natural da divisa do Acre com o Peru, e é cultivado na mata, livre de pesticidas e química.
-
-Os índios utilizam o rapé por suas propriedades medicinais, e para eles cada rapé possui suas propriedades curandeiras.
-
-Os rapés ajudam a potencializar a meditação e também auxilia em limpezas espirituais.
-
-Para a utilização, é muito importante que a pessoa esteja preparada para receber o espírito da floresta através do rapé. É necessário estar com o corpo “limpo”, em um ambiente propício e principalmente com propósito para consagrar esta medicina sagrada. A pessoa que irá aplicar também requer preparo, concentração, propósito fé e técnica de sopro. Assim, terá o aproveitamento máximo da medicina.
+Qualquer dúvida por favor envie-nos um email, estaremos sempre a sua disposição.
