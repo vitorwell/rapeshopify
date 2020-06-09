@@ -9,10 +9,10 @@ header: >-
   Rapés indígenas, tabacos e plantas sagradas para meditação e alinhamento com o
   ser ancestral.
 tagline: >-
-  Nossos rapés são feito com muito respeito, dedicação, amor e fé. Ele passa por
-  um processo de peneiragem para ficar extrafino e é secado com a energia do
-  sol. Nosso tabaco é natural da divisa do Acre com o Peru, e é cultivado na
-  mata, livre de pesticidas e química.
+  Nossos rapés são feito com muito respeito, dedicação, amor e fé. Nosso tabaco
+  é natural da divisa do Acre com o Peru, e é cultivado na mata, livre de
+  pesticidas e química, ele passa por um processo de peneiragem para ficar
+  extrafino e é secado com a energia do sol.
 
 
   Os índios utilizam o rapé por suas propriedades medicinais, e para eles cada
