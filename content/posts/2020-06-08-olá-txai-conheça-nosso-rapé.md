@@ -2,7 +2,7 @@
 templateKey: post
 title: 'Olá Txai, conheça nosso Rapé.'
 path: nosso-rape
-date: 2020-06-08T23:40:30.790Z
+date: 2020-06-06T23:40:30.790Z
 featuredImage:
   alt: aplicação de rapé
   src: /images/rape.jpg
