@@ -23,7 +23,7 @@ menuItems:
     linkType: internal
     parentid: '-1'
   - id: '13'
-    label: Blog
+    label: Informações
     link: /blog/
     linkType: internal
     parentid: '-1'
