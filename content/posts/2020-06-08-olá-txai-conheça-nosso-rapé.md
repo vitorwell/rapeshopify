@@ -1,7 +1,7 @@
 ---
 templateKey: post
-title: Rapé e seus benefícios - Conheça esta medicina sagrada
-path: /rape-e-seus-beneficios/
+title: 'Olá Txai, conheça nosso Rapé.'
+path: /nosso-rape/
 date: 2020-06-06T23:40:30.790Z
 featuredImage:
   alt: aplicação de rapé
