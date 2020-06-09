@@ -27,5 +27,10 @@ menuItems:
     link: /blog/
     linkType: internal
     parentid: '-1'
+  - id: '0'
+    label: Frete
+    link: frete
+    linkType: internal
+    parentid: '-1'
 ---
 
