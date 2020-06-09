@@ -1,7 +1,7 @@
 ---
 templateKey: banner
 visible: true
-datasource: blog
+datasource: manual
 header: >-
   # Olá Txai, conheça nossa medicina.
 
@@ -9,12 +9,14 @@ header: >-
   Rapés indígenas, tabacos e plantas sagradas para meditação e alinhamento com o
   ser ancestral.
 tagline: >-
-  Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam
-  facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor
-  magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. 
+  Nossos rapés são feito com muito respeito, dedicação, amor e fé. Ele passa por
+  um processo de peneiragem para ficar extrafino e é secado com a energia do
+  sol. Nosso tabaco é natural da divisa do Acre com o Peru, e é cultivado na
+  mata, livre de pesticidas e química.
 
-  Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum
-  dolor sit nullam.  
+
+  Os índios utilizam o rapé por suas propriedades medicinais, e para eles cada
+  rapé possui suas propriedades curandeiras.
 bannerImage:
   alt: Aplicação de rapé
   src: /images/pic01.jpg
