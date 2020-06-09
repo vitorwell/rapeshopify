@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: '#FIQUEEMCASA Enviamos para você!'
-path: frete
+path: /frete/
 date: 2020-06-08T23:40:30.790Z
 featuredImage:
   alt: Entrega pelos correios
