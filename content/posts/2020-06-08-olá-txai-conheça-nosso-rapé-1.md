@@ -1,6 +1,6 @@
 ---
 templateKey: post
-title: '#fiqueemcasa Enviamos para todo o Brasil'
+title: '#FIQUEEMCASA Enviamos para todo o Brasil'
 path: frete
 date: 2020-06-08T23:40:30.790Z
 featuredImage:
