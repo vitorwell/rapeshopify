@@ -7,10 +7,9 @@ featuredImage:
   alt: aplicação de rapé
   src: /images/pagseguro-uol.png
 description: >-
-  O rapé é uma tradição cultural espiritual dos povos indígenas, trata-se de um
-  pó fino composto de tabaco, cinzas e outras ervas. Os ingredientes são
-  secados, piladas e peneirados a fim de se obter um pó fino o qual é soprado
-  nas narinas.
+  Os pagamentos realizados no Rapé Sagrado são garantidos pelo líder em
+  pagamentos seguros, o PagSeguro. Assim você pode comprar com segurança com
+  todas as garantias que o PagSeguro oferece.
 gallery: []
 category: pagamento
 tags:
