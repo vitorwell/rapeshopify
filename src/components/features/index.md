@@ -34,7 +34,7 @@ features:
     link:
       class: button big
       label: Saiba Mais
-      linkUrl: /pagamento-seguro
+      linkUrl: blog/pagamento-seguro/
     tagline: >-
       Pagamento seguro com PagSeguro, receba seu produto ou tenha seu dinheiro
       de volta, tudo garantido pelo líder em pagamentos seguros.
