@@ -6,7 +6,7 @@ items:
   - class: image
     image:
       alt: PagSeguro
-      src: /images/pagseguro-uol.png
+      src: /images/pagseguro-e-confiavel.png
     linkUrl: /blog/pagamento-seguro/
     tagline: Pagamento Seguro
   - class: image
