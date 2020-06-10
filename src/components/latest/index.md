@@ -8,13 +8,13 @@ items:
       alt: PagSeguro
       src: /images/pagseguro-e-confiavel.png
     linkUrl: /blog/pagamento-seguro/
-    tagline: Pagamento Seguro
+    tagline: Informações sobre pagamento
   - class: image
     image:
       alt: Correios
       src: /images/logo-correios-256.png
     linkUrl: /blog/frete/
-    tagline: Correios
+    tagline: Informações sobre frete
   - class: image
     image:
       alt: Aplicação de rapé
