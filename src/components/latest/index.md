@@ -24,6 +24,6 @@ items:
 action:
   class: button big
   label: Saiba mais
-  linkUrl: /markdown
+  linkUrl: /blog
 ---
 
