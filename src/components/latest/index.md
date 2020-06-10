@@ -1,7 +1,7 @@
 ---
 templateKey: latest
 visible: true
-title: Nosso Blog
+title: Informações
 items:
   - class: image
     image:
