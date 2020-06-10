@@ -12,9 +12,9 @@ items:
   - class: image
     image:
       alt: Correios
-      src: /images/correios_brasileira_logo_old-700x176.png
+      src: /images/logo-correios-256.png
     linkUrl: /blog/frete/
-    tagline: '#FIQUEEMCASA'
+    tagline: Correios
   - class: image
     image:
       alt: Aplicação de rapé
