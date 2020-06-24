@@ -276,6 +276,12 @@ collections:
           - { label: 'Site Url', name: 'siteUrl', widget: 'string' }
           - { label: 'Site Logo', name: 'siteLogo', widget: 'image' }
           - { label: 'Author', name: 'author', widget: 'string' }
+          - label: 'Frontpage Settings'
+            name: 'frontpage'
+            widget: 'object'
+            fields:
+              - { label: 'Show Articles?', name: 'show_articles', default: true, widget: boolean }
+              - { label: 'Show Products?', name: 'show_products', default: false, widget: boolean }
           - label: 'Blog Settings'
             name: 'blog'
             widget: 'object'

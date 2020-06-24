@@ -24,7 +24,7 @@
 	$font: (
 		family:				('Quicksand', sans-serif),
 		family-heading:		('Fjalla One', sans-serif),
-		family-fixed:		('Karla', sans-serif),
+		family-fixed:		('Merriweather', serif),
 		weight:				400,
 		weight-bold:		600,
 		weight-heading:		700,
@@ -34,8 +34,8 @@
 
 // Palette.
 	$palette: (
-		bg:					#F5F6F7,
-		bg-alt:			#f5f6f7,
+		bg:					#ffffff,
+		bg-alt:			#ffffff,
 		fg:					#7f888f,
 		fg-bold:			#3d4449,
 		fg-light:			#9fa3a6,
@@ -44,6 +44,6 @@
 		accent:				#93bd6b
 	);
 	
-  @import url('https://fonts.googleapis.com/css?family=Quicksand:400,600,400italic,600italic|Fjalla+One:400,600|Karla:400,600');
+  @import url('https://fonts.googleapis.com/css?family=Quicksand:400,600,400italic,600italic|Fjalla+One:400,600|Merriweather:400,600');
   
   
