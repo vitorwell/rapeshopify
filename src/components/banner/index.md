@@ -15,10 +15,10 @@ tagline: >-
   extrafino e é secado com a energia do sol.
 bannerImage:
   alt: Aplicacao rape
-  src: /images/rape.jpg
+  src: /images/pic01.jpg
 actions:
   - class: button big
-    label: Nossos produtos
+    label: Comprar rapé
     linkUrl: /loja
 ---
 
