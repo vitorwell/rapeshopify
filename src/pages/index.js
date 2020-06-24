@@ -46,7 +46,7 @@ const ConvertKeysToLowerCase = (obj) => {
     return output;
 }
 
-console.log(shopOptions)
+//console.log(shopOptions)
 
 const IndexPage = () => (
   <>
