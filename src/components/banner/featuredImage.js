@@ -25,9 +25,9 @@ const Image = props => (
     `}
     render={data => {
       const image = data.images.edges.find(n => {
-        //console.log(`${props.filename}`.split('/')[2])
+        var filepath = `${props.filename}`.split('/');
         //props.filename
-        var filename = `${props.filename}`.split('/')[2]
+        var filename = filepath.slice(filepath.length-1);//`${props.filename}`.split('/')[2]
         return n.node.relativePath.includes(filename);
       });
       if (!image) {

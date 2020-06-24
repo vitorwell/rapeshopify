@@ -27,7 +27,7 @@ const Menu = (props) => {
       <ul>
         {menuRoot.map(menulink => (
           menulink.parentid !== '-1' ? '' :
-            <li key={menulink.id}>
+            <li key={`mnu${menulink.label}-${menulink.id}`}>
               {menulink.withsub !== true ?
               <Link to={menulink.link}>{menulink.label}</Link>
                 :

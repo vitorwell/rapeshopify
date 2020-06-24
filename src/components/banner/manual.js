@@ -19,8 +19,9 @@ const ManualBanner = ({frontmatter}) => (
         </Link></li>
       </ul>
     </div>
+    
     <span className="image object">
-        {frontmatter.bannerImage ? <FeaturedImage alt={frontmatter.bannerImage.alt} filename={frontmatter.bannerImage.src} /> : <img src="/images//pic01.jpg" alt="Gatsby in Space" />}
+        {frontmatter.bannerImage ? <FeaturedImage alt={frontmatter.bannerImage.alt} filename={frontmatter.bannerImage.src.childImageSharp.fluid.src} /> : <img src="/images/pic01.jpg" alt="Gatsby in Space" />}
     </span>
   </section>
 )
