@@ -10,6 +10,7 @@ import Products from "gatsby-theme-shopifystore/src/components/products"
 //import Image from "../components/image"
 import SEO from "../components/seo"
 
+const siteOptions = require("../../static/admin/site_metadata")
 const blogOptions = require("../../static/admin/blog_options")
 const shopOptions = require("../../static/admin/shop_options")
 
@@ -18,6 +19,17 @@ const shopBasePath = shopOptions.basePath
 //set meta tags keys
 shopOptions.metatitletpl = shopOptions.shopMetaTitleTpl
 shopOptions.metadescriptiontpl = shopOptions.shopMetaDescriptionTpl
+
+//set home metatags
+if (shopBasePath !== '/') {
+    blogOptions.metatitletpl = siteOptions.title
+    blogOptions.metadescriptiontpl = siteOptions.description
+} else {
+    //set meta tags keys
+    shopOptions.metatitletpl = siteOptions.title //shopOptions.shopMetaTitleTpl
+    shopOptions.metadescriptiontpl = siteOptions.description //shopOptions.shopMetaDescriptionTpl
+}
+
 
 const ConvertKeysToLowerCase = (obj) => {
     var output = {};
@@ -34,6 +46,7 @@ const ConvertKeysToLowerCase = (obj) => {
     return output;
 }
 
+console.log(shopOptions)
 
 const IndexPage = () => (
   <>
