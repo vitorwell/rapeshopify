@@ -61,10 +61,15 @@ const IndexPage = () => (
     <Features />
 
     {/* Section*/}
-    <Articles pageContext={ConvertKeysToLowerCase(blogOptions)} />
+    {siteOptions.frontpage.show_articles ? <Articles pageContext={ConvertKeysToLowerCase(blogOptions)} /> : ''}
+    
+    {/* Section*/}
+    {siteOptions.frontpage.show_products ? <Products pageContext={ConvertKeysToLowerCase(shopOptions)} /> : ''}
+
   </> :
   <>
-      <Products pageContext={ConvertKeysToLowerCase(shopOptions)} />
+    {/* Section*/}
+    {siteOptions.frontpage.show_products ? <Products pageContext={ConvertKeysToLowerCase(shopOptions)} /> : ''}
   </> }
   </>
 )
