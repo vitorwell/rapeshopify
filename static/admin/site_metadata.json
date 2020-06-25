@@ -5,7 +5,7 @@
   "siteLogo": "https://editorial-html5up-gatsby.netlify.com/logo.jpg",
   "author": "@2600hz",
   "frontpage": {
-    "show_articles": true,
+    "show_articles": false,
     "show_products": true
   },
   "blog": {
