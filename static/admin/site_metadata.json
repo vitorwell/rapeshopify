@@ -6,7 +6,7 @@
   "author": "@2600hz",
   "frontpage": {
     "show_articles": true,
-    "show_products": false
+    "show_products": true
   },
   "blog": {
     "front_limit": 1,
