@@ -18,8 +18,8 @@ features:
       label: Saiba Mais
       linkUrl: blog/pagamento-seguro/
     tagline: >-
-      Pagamento seguro com PagSeguro, receba seu produto ou tenha seu dinheiro
-      de volta, tudo garantido pelo líder em pagamentos seguros.
+      Pagamento seguro com MercadoPago, receba seu produto ou tenha seu dinheiro
+      de volta, sua compra garantida!
     title: Pagamento Seguro
 ---
 
