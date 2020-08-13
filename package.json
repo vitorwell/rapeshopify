@@ -44,7 +44,7 @@
     "jquery": "^3.4.1",
     "lazysizes": "^5.1.1",
     "moment": "^2.24.0",
-    "netlify-cms-app": "^2.12.15",
+    "netlify-cms-app": "^2.12.19",
     "netlify-cms-widget-colorpickers": "^0.3.4",
     "netlify-cms-widget-fontpicker": "^0.5.3",
     "prop-types": "^15.7.2",
